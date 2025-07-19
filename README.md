@@ -11,8 +11,3 @@ Airline Reservation System using C, GTK GUI, and MySQL
 - Viewing Flights
 - Canceling Reservations
 - Admin Panel
-
-## Contributors:
-- 
-- 
-- 
