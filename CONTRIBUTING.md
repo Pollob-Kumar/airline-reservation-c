@@ -13,7 +13,7 @@ This guide is only for our team members — **Pollob, Ashiqur, and Tanzid** — 
 ### ✅ Step 1: Clone the Repository (First Time Only)
 
 ```bash
-git clone https://github.com/pollobkumar/airline-reservation-c.git
+git clone https://github.com/Pollob-Kumar/airline-reservation-c.git
 cd airline-reservation-c
 ```
 <br>
