@@ -7,4 +7,4 @@ Airline Reservation System using C, GTK GUI, and MySQL
 <br><br>
 
 ### Algorithms
-- Our [directory](DIRECTORY.md) has the full list of applications.
+- Our [directory](DIRECTORY.md) has the full list of applications
